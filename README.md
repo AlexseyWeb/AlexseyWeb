@@ -1,6 +1,6 @@
 #  Hello everyone, my name is Alexey, programming is my hobby. 
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTk4ZWlxZGIzMDRrYWg3bnYyeTdteXNjYzlyMHV1aXc4dXk2d2U2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KDyxouSEfhOs9i4oru/giphy.gif" width="100"/>
+  <img src="[https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTk4ZWlxZGIzMDRrYWg3bnYyeTdteXNjYzlyMHV1aXc4dXk2d2U2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KDyxouSEfhOs9i4oru/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdseGpoMnIwN2txNXNyMGZxd2F6a2YwenNrcnRncHlyMHNhb24wNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif)" width="100"/>
 </div>
 ---
 
