@@ -1,4 +1,4 @@
-#  Hello everyone, my name is Alexey. 
+#  <center>Hello everyone, my name is Alexey.</center> 
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmkzZW5hcTdsdWtuNWJicmZjeTRmdmo0ZWtyZGE1ZmdzMmJiaGEzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="300"/>
 </div>
