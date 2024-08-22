@@ -18,4 +18,4 @@
 </div>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlexseyWeb&theme=meta-light)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlexseyWeb&theme=whatsapp-light)](https://git.io/streak-stats)
