@@ -1,6 +1,6 @@
 #  <center>Hello everyone, my name is Alexey.</center> 
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmkzZW5hcTdsdWtuNWJicmZjeTRmdmo0ZWtyZGE1ZmdzMmJiaGEzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="300"/>
+  <img src="<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">via GIPHY</a></p>" width="300"/>
 </div>
 ---
 
