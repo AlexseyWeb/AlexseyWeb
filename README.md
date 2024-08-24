@@ -1,6 +1,6 @@
 #  <center>Hello everyone, my name is Alexey.</center> 
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">via GIPHY</a></p>" width="300"/>
+  <img src="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6" width="300"/>
 
 ---
 
