@@ -1,4 +1,4 @@
-#  <center>Hello everyone, my name is Alexey.</center> 
+#  Python it's fun!</center> 
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmNvcm00dDRyMmFnZjBnN3h4M2xoYmc0M29icHFqbHlhNG5uamc4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
 
