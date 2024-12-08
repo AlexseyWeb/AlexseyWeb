@@ -1,4 +1,6 @@
 # :computer: Programming from a hobby :computer: </center> 
+https://github-readme-stats.vercel.app/api?username=AlexseyWeb&show_icons=true&theme=radical
+
 <div id="header" align="center">
  markdown
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexseyWeb&show_icons=true&theme=radical)
