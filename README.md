@@ -1,8 +1,8 @@
 # :computer: Programming from a hobby :computer: </center>
 ---
-<div style='text-align: right;'>
+
    https://github-readme-stats.vercel.app/api/top-langs/?username=AlexseyWeb&layout=donut)](https://github.com/anuraghazra/github-readme-stats
-</div>
+
 
 ### :penguin: Languages and Tools :
 <div>
