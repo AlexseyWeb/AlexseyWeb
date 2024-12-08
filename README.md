@@ -1,5 +1,5 @@
 # :computer: Programming from a hobby :computer: </center> 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexseyWeb&layout=donut)](https://github.com/anuraghazra/github-readme-stats)</br>
+ <center></center> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexseyWeb&layout=donut)](https://github.com/anuraghazra/github-readme-stats)</center></br>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexseyWeb&show_icons=true&theme=radical)</br>
 ---
 
