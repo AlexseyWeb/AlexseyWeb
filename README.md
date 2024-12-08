@@ -1,7 +1,7 @@
 # :computer: Programming from a hobby :computer: </center> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexseyWeb)](https://github.com/anuraghazra/github-readme-stats)
 ---
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexseyWeb&langs_count=8)
 ### :penguin: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Java" alt="Python" width="40" height="40"/>&nbsp;
