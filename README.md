@@ -1,5 +1,5 @@
 # :computer: Programming from a hobby :computer: </center> 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexseyWeb)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### :penguin: Languages and Tools :
