@@ -1,7 +1,7 @@
 # :computer: Programming from a hobby :computer: </center>
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexseyWeb&layout=donut)](https://github.com/anuraghazra/github-readme-stats" alt="Sublime's custom image"/>
+  <a src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexseyWeb&layout=donut)](https://github.com/anuraghazra/github-readme-stats" alt="Sublime's custom image"/>
 </p>
 ## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexseyWeb&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ### :penguin: Languages and Tools :
