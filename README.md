@@ -16,4 +16,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" **alt="FastAPI" width="40" height="40"/>
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlexseyWeb&theme=whatsapp-light)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
