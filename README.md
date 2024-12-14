@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/Giflytics-gif-jazminantoinette-giflytics-xT9C25UNTwfZuk85WP" width="100"/>
+  <img src="https://giphy.com/embed/xT9C25UNTwfZuk85WP](https://giphy.com/gifs/Giflytics-gif-jazminantoinette-giflytics-xT9C25UNTwfZuk85WP" width="100"/>
+  
 </div> 
 
 
