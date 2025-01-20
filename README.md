@@ -1,3 +1,3 @@
- ## ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexseyWeb&show_icons=true)
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexseyWeb&theme=dark&background=000000)](https://git.io/streak-stats)
+ ### :fire: My Stats : ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexseyWeb&show_icons=true)
+
+## [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
